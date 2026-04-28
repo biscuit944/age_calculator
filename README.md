@@ -65,7 +65,8 @@ cd age-calculator
 ## 📸 Preview
 
 ```
-![Preview](image.png)
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/3d9b053b-a497-4f7b-9c22-62de7c510c3a" />
+
 ```
 
 ---
